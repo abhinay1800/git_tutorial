@@ -1,6 +1,7 @@
 hey, i am ingesting the data in this files.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am master and i am adding some more master-level data.
 =======
 I am class B , I have updated.
@@ -12,3 +13,7 @@ i am ingesting more data.
 
 hello gurru I am feature_abhi_2
 >>>>>>> feature_abhi_2
+=======
+
+hello laaal,, ye haath ni hathoda h.
+>>>>>>> feature_nay_1
