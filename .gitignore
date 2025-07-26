@@ -1,3 +1,4 @@
 .env
 api_secrets.txt
 .DS_Store
+bronze/
